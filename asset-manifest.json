@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emojify/static/css/main.ba74c9d9.chunk.css",
-    "main.js": "/emojify/static/js/main.1ad1c28b.chunk.js",
-    "main.js.map": "/emojify/static/js/main.1ad1c28b.chunk.js.map",
+    "main.js": "/emojify/static/js/main.74a9e6bf.chunk.js",
+    "main.js.map": "/emojify/static/js/main.74a9e6bf.chunk.js.map",
     "runtime-main.js": "/emojify/static/js/runtime-main.bc0efe59.js",
     "runtime-main.js.map": "/emojify/static/js/runtime-main.bc0efe59.js.map",
-    "static/js/2.4f343eb8.chunk.js": "/emojify/static/js/2.4f343eb8.chunk.js",
-    "static/js/2.4f343eb8.chunk.js.map": "/emojify/static/js/2.4f343eb8.chunk.js.map",
+    "static/js/2.ebbecec4.chunk.js": "/emojify/static/js/2.ebbecec4.chunk.js",
+    "static/js/2.ebbecec4.chunk.js.map": "/emojify/static/js/2.ebbecec4.chunk.js.map",
     "index.html": "/emojify/index.html",
     "static/css/main.ba74c9d9.chunk.css.map": "/emojify/static/css/main.ba74c9d9.chunk.css.map",
-    "static/js/2.4f343eb8.chunk.js.LICENSE.txt": "/emojify/static/js/2.4f343eb8.chunk.js.LICENSE.txt",
+    "static/js/2.ebbecec4.chunk.js.LICENSE.txt": "/emojify/static/js/2.ebbecec4.chunk.js.LICENSE.txt",
     "static/media/1st place medal.png": "/emojify/static/media/1st place medal.0eafd0f7.png",
     "static/media/2nd place medal.png": "/emojify/static/media/2nd place medal.0bf693f9.png",
     "static/media/3rd place medal.png": "/emojify/static/media/3rd place medal.688feabf.png",
@@ -3706,8 +3706,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bc0efe59.js",
-    "static/js/2.4f343eb8.chunk.js",
+    "static/js/2.ebbecec4.chunk.js",
     "static/css/main.ba74c9d9.chunk.css",
-    "static/js/main.1ad1c28b.chunk.js"
+    "static/js/main.74a9e6bf.chunk.js"
   ]
 }
