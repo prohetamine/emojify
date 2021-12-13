@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emojify/static/css/main.7480c3aa.chunk.css",
-    "main.js": "/emojify/static/js/main.373fbba5.chunk.js",
-    "main.js.map": "/emojify/static/js/main.373fbba5.chunk.js.map",
+    "main.css": "/emojify/static/css/main.3c6d6826.chunk.css",
+    "main.js": "/emojify/static/js/main.0cae7178.chunk.js",
+    "main.js.map": "/emojify/static/js/main.0cae7178.chunk.js.map",
     "runtime-main.js": "/emojify/static/js/runtime-main.bc0efe59.js",
     "runtime-main.js.map": "/emojify/static/js/runtime-main.bc0efe59.js.map",
-    "static/js/2.970ac163.chunk.js": "/emojify/static/js/2.970ac163.chunk.js",
-    "static/js/2.970ac163.chunk.js.map": "/emojify/static/js/2.970ac163.chunk.js.map",
+    "static/js/2.4ba658d8.chunk.js": "/emojify/static/js/2.4ba658d8.chunk.js",
+    "static/js/2.4ba658d8.chunk.js.map": "/emojify/static/js/2.4ba658d8.chunk.js.map",
     "index.html": "/emojify/index.html",
-    "static/css/main.7480c3aa.chunk.css.map": "/emojify/static/css/main.7480c3aa.chunk.css.map",
-    "static/js/2.970ac163.chunk.js.LICENSE.txt": "/emojify/static/js/2.970ac163.chunk.js.LICENSE.txt",
+    "static/css/main.3c6d6826.chunk.css.map": "/emojify/static/css/main.3c6d6826.chunk.css.map",
+    "static/js/2.4ba658d8.chunk.js.LICENSE.txt": "/emojify/static/js/2.4ba658d8.chunk.js.LICENSE.txt",
     "static/media/1st place medal.png": "/emojify/static/media/1st place medal.0eafd0f7.png",
     "static/media/2nd place medal.png": "/emojify/static/media/2nd place medal.0bf693f9.png",
     "static/media/3rd place medal.png": "/emojify/static/media/3rd place medal.688feabf.png",
@@ -1215,7 +1215,7 @@
     "static/media/ice hockey.png": "/emojify/static/media/ice hockey.b13fae4f.png",
     "static/media/ice skate.png": "/emojify/static/media/ice skate.80717ff0.png",
     "static/media/ice.png": "/emojify/static/media/ice.c7a95078.png",
-    "static/media/index.css": "/emojify/static/media/iconfont.d46bfaed.woff2",
+    "static/media/index.css": "/emojify/static/media/iconfont.f97990ec.woff2",
     "static/media/inbox tray.png": "/emojify/static/media/inbox tray.be0ec293.png",
     "static/media/incoming envelope.png": "/emojify/static/media/incoming envelope.224707d9.png",
     "static/media/index pointing up-dark skin tone.png": "/emojify/static/media/index pointing up-dark skin tone.bd96456e.png",
@@ -3706,8 +3706,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bc0efe59.js",
-    "static/js/2.970ac163.chunk.js",
-    "static/css/main.7480c3aa.chunk.css",
-    "static/js/main.373fbba5.chunk.js"
+    "static/js/2.4ba658d8.chunk.js",
+    "static/css/main.3c6d6826.chunk.css",
+    "static/js/main.0cae7178.chunk.js"
   ]
 }
