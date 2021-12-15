@@ -58,11 +58,9 @@ const path = require('path')
       )
     )
 
-    links.forEach(({ name }) => {
-      fs.writeFileSync(__dirname+'/svg/'+name+'.svg', `<svg width="75" height="75" viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+    fs.writeFileSync(__dirname+'/svg/'+'😀'+'.svg', `<svg width="75" height="75" viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M0 0H75V75H0V0Z" fill="#C4C4C4"/>
-      </svg>`)
-    })
+    </svg>`)
 
     svgtofont({
       src: path.resolve(process.cwd(), 'svg'), // svg path
@@ -73,7 +71,7 @@ const path = require('path')
       console.log('done!')
     });
 
-    for (let i = 0; i < links.length; i += 1) {
+    /*for (let i = 0; i < links.length; i += 1) {
       console.log('Download: ', i + 1, '/', links.length)
       await axios({
         method: 'get',
@@ -84,6 +82,6 @@ const path = require('path')
       }).catch(e => {
         console.log(links[i].link)
       })
-    }
+    }*/
   }
 })()
